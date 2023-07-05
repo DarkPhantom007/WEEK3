@@ -53,6 +53,7 @@ class Store implements Company{
     public void addStore(Store store) {
         List<Store> linkedStore = new ArrayList<>();
         linkedStore.add(store);
+        System.out.println(linkedStore);
     }
 
     @Override

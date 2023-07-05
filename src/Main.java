@@ -21,7 +21,7 @@ abstract public class Main {
         store.addCustomerToQueue(customer2);
         store.addCustomerToQueue(customer3);
 
-        String productsCsvFile = "/Users/user/IdeaProjects/WEEK3/src/resources/package.csv";
+        String productsCsvFile = "/Users/mac/Downloads/WEEK3/src/resources/package.csv";
 //        String customersCsvFile = "/Users/user/IdeaProjects/WEEK3/src/resources/package.csv";
         String csvSeparator = ",";
 
